@@ -1,3 +1,9 @@
 [submodule "EasyVirtualMotionCaptureForUnity"]
 	path = EasyVirtualMotionCaptureForUnity
 	url = https://github.com/chafla/EasyVirtualMotionCaptureForUnity
+[submodule "VRLive-Server"]
+	path = VRLive-Server
+	url = https://github.com/chafla/VRLive-Server
+[submodule "VRLive-Unity"]
+	path = VRLive-Unity
+	url = https://github.com/chafla/VRLive-Unity
